@@ -1,8 +1,8 @@
 #!/bin/bash
-rm -r Gaydar
+rm -r PhantomDar_v1
 
 git clone https://github.com/EmberVulpix/Gaydar
-cd Gaydar
+cd PhantomDar_v1
 
 PS3="Welche Map möchtest du benutzen?? "
 options=("4k Map" "8k Map")
@@ -43,7 +43,7 @@ cd ..
 
 if [ -e run.sh ]
 then
-  echo "Vorherige run.sh behalten? [Y/N]? "
+  echo "Vorherige run.sh behalten? [J/N]? "
   read keep
   if [ "$keep" != "${keep#[Yy]}" ]
   then
