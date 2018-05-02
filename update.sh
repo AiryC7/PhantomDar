@@ -1,7 +1,7 @@
 #!/bin/bash
 rm -r PhantomDar_v1
 
-git clone https://github.com/EmberVulpix/Gaydar
+git clone https://github.com//ThePhantom410/PhantomDar_v1
 cd PhantomDar_v1
 
 PS3="Welche Map möchtest du benutzen?? "
