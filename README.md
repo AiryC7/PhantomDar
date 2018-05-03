@@ -7,7 +7,7 @@ It installs the latest version from PhantomDar_v1, which supports the current en
 
 **To run the setup you simply need to execute this commands in your terminal**
 ```
-wget https://raw.githubusercontent.com/ThePhantom410/PhantomDar/master/update.sh
+wget https://raw.githubusercontent.com/ThePhantom410/PhantomDar/master/setup.sh
 sudo chmod +x setup.sh
 sudo ./setup.sh
 ```
