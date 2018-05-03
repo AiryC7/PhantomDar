@@ -36,7 +36,7 @@ then
 else
   echo 'Unknown argument: '\$1
 fi
-java -Xmx$ram -jar Gaydar/target/Gaydar-6.9-jar-with-dependencies.jar $radar_ip PortFilter $game_ip
+java -Xmx$ram -jar Gaydar/target/PhantomDar-1.0-jar-with-dependencies.jar $radar_ip PortFilter $game_ip
 
 EOF
 
