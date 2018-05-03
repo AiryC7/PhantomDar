@@ -18,7 +18,7 @@ ls /sys/class/net
 read interface
 
 echo ""
-echo "wieviel RAM benutzen? (e.g. 4g or 3g)"
+echo "wieviel RAM benutzen? (e.g. 4g oder 3g)"
 free -h
 read ram
 
