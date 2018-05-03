@@ -27,6 +27,6 @@ apt-get -y install dsniff
 apt-get -y install maven
 apt-get -y install git
 
-wget https://raw.githubusercontent.com/zecjy/PUBG-Radar-setup/master/update.sh -O update.sh
+wget https://raw.githubusercontent.com/ThePhantom410/PhantomDar/master/update.sh -O update.sh
 chmod +x update.sh
 ./update.sh
