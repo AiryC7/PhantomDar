@@ -1,10 +1,10 @@
 # Fast setup for the PUBG Radar on linux
 
-It installs the latest version from EmberVulpix, which supports the current encrytion. All requirements like java are also installed
+It installs the latest version from PhantomDar_v1, which supports the current encrytion. All requirements like java are also installed
 
 **To run the setup you simply need to execute this commands in your terminal**
 ```
-wget https://raw.githubusercontent.com/zecjy/PUBG-Radar-setup/master/setup.sh
+wget https://raw.githubusercontent.com/ThePhantom410/PhantomDar/master/update.sh
 sudo chmod +x setup.sh
 sudo ./setup.sh
 ```
@@ -37,5 +37,6 @@ sudo ./create_run.sh
 ```
 
 **Credits to:**
+* *zecjy: https://raw.github.com/zecjy/
 * *EmberVulpix: https://github.com/EmberVulpix/Gaydar*
 * *sm00thelf for the basic script: https://high-minded.net/members/sm00thelf.40217/*
