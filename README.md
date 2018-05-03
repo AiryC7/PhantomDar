@@ -2,6 +2,9 @@
 
 It installs the latest version from PhantomDar_v1, which supports the current encrytion. All requirements like java are also installed
 
+
+**Its Not my Radar code i just edited it and translate it to german, also styled it how i want it.**
+
 **To run the setup you simply need to execute this commands in your terminal**
 ```
 wget https://raw.githubusercontent.com/ThePhantom410/PhantomDar/master/update.sh
